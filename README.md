@@ -22,7 +22,7 @@ Here, we are using the Python programming language and pytesseract google librar
 * FastApi <br />
 
 ## Workflow
-![workflow](https://user-images.githubusercontent.com/108637079/188907761-18938235-c9f4-42b5-945b-83279bebcb8c.jpg)
+![workflow](https://i.ibb.co/qk3v0J4/A-sample-prescription-containing-handwritten-texts-over-the-printed-lines.png)
 
 ## PDF to Image
 For converting PDF to image, we have used pdf2image library.
@@ -30,7 +30,7 @@ For converting PDF to image, we have used pdf2image library.
 ## Without preprocessing extracting data
 Tried extracting data from source files without any processing, as they are not in proper format to be extracted, the extracted data was not as expected.
 
-![dark_image](https://user-images.githubusercontent.com/108637079/188908642-2c7a5a18-1d0d-4b99-ada3-8aa3e501a14b.jpg)
+![dark_image](https://i.ibb.co/NrftC4j/dark-A-sample-prescription-containing-handwritten-texts-over-the-printed-lines.png)
 
 ## Extracted data from the above image
     
