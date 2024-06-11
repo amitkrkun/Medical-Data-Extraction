@@ -35,33 +35,28 @@ Tried extracting data from source files without any processing, as they are not 
 ## Extracted data from the above image
     
 
-      Dr John Smith, M.D
-      2 Non-Important Street,
-      New York, Phone (000)-111-2222
+      armando cognia
+      Went Rimbi, makate city
+      Age: 29 Sex: M Date: 12-13-90
 
-      Name: Maria Sharapova Date: 5/11/2022
+      
 
-      Address: 9 tennis court, new Russia, DC
+      amoxicillin 500mg cap
 
-      —momennannenncmneneunnmnnnnninsissiyoinnitnahaadaanih issn earnttneenrenen:
+      1 cap 3x a day for secen days
 
-      Prednisone 20 mg
-      Lialda 2.4 gram
 
-      3 days,
-
-      or 1 month
 
 ## Image processing
 we decided to preprocess the image using opencv module, before extracting data from them. For that we have first used normal thresholding and checked, which resulted in below image
 
-![filter_dark](https://user-images.githubusercontent.com/108637079/188912143-09f9894c-4553-4396-bd48-0cfd21206e7c.jpg)
+![filter_dark](https://i.ibb.co/1TY20hG/error.png)
 
 So, if there is any shadow or some noise, the normal thresholding fade out the area. which will result in loss of data.
 
 In the search of better approach of this problem, we have decided to use adaptive thresholding technique. In this technique, the image will be divided into sub image and the thresholding value will be different for all sub regions. And the end result of adaptive thresholding is much better compared to normal thresholding.
 
-![adaptive_filter_dark](https://user-images.githubusercontent.com/108637079/188912282-4bc8fde3-81e0-401c-b75c-557e990e2d01.jpg)
+![adaptive_filter_dark](https://i.ibb.co/d79yzgV/quality.png)
 
 ## After preprocessing the image data extraction
 
