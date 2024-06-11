@@ -60,24 +60,13 @@ In the search of better approach of this problem, we have decided to use adaptiv
 
 ## After preprocessing the image data extraction
 
-      Dr John Smith, M.D
-      2 Non-Important Street,
-      New York, Phone (000)-111-2222
-      
-      Name: Marta Sharapova Date: 5/11/2022
-      
-      Address: 9 tennis court, new Russia, DC
-      
-      K
-      
-      Prednisone 20 mg
-      Lialda 2.4 gram
-      
-      Directions:
-      
-      Prednisone, Taper 5 mg every 3 days,
-      Finish in 2.5 weeks a
-      Lialda - take 2 pill everyday for 1 month
+      armando cognia
+      Went Rimbi, makate city
+      Age: 29 Sex: M Date: 12-13-90   
+
+      amoxicillin 500mg cap
+
+      1 cap 3x a day for secen days
       
 ## Notebook
 For all these above trials, used jupyter books and developed the small bits of the functionalities., which can be used later while designing the class.
