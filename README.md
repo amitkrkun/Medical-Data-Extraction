@@ -22,7 +22,7 @@ Here, we are using the Python programming language and pytesseract google librar
 * FastApi <br />
 
 ## Workflow
-![workflow](https://i.ibb.co/qk3v0J4/A-sample-prescription-containing-handwritten-texts-over-the-printed-lines.png)
+![workflow]([https://i.ibb.co/qk3v0J4/A-sample-prescription-containing-handwritten-texts-over-the-printed-lines.png](https://i.ibb.co/cFrT0bj/2024-06-11-19-21.png))
 
 ## PDF to Image
 For converting PDF to image, we have used pdf2image library.
